@@ -1,16 +1,21 @@
-<h1 align="center"> Welcome to Forge 42 </h1>
+<h1 align="center"> Welcome to Forge 42  </h1>
 <h3 align="center">✨ Shaping the future of Developer experience ✨ </h1>
+ 
 
-Our mission is to deliver user-friendly and powerful products, platforms, and services that set the standard for developer experience and promote best practices. Committed to our roots, we actively support the open-source spirit by creating, maintaining and contributing to open-source software but also by providing valuable educational content on various relevant channels.
+Our vision is to disrupt and reshape the development landscape, pioneering a future where developer experience sets new standards of excellence and innovation.
 
+## Values / Principles
 
-We also want to create a thriving open-source community through engaging content and open-source projects where people can come together and share their opinions and grow together. We want to be something much more than another IT company, we want to be a driver in the industry and help shape the future. 
+- We are **customer-focused**, meaning we strive to anticipate and innovate according to our customers' needs, rather than simply responding to their requests.
+- We are team players because we are aware that the **whole is greater than the sum of of the parts**.
+- We **strive** for the **simplest solutions**, adhering to **standards** and reusing existing solutions when practical. However, we’re not hesitant to **challenge the status quo** if it can lead to meaningful improvements.
+- **Continuous improvement over perfection**: we believe in iterative and self-improving processes to deliver the best possible outcome at the given time
+- We **are proud about our successes and mistakes**, as they indicate we’ve taken risks, learned, and grew from them.
+- We are **reliable and trustworthy partners**, because we hold ourselves accountable to our promises. Each promise carries weight, showing our commitment to deliver on our own words
 
+## Mission
 
-Our goal is to empower every developer with the tools and knowledge to succeed. We provide tools to make you succeed faster and get your products shipped to production.
-
-If you wish to help us, help others, consider contributing to our open-source community projects!
-
+Our mission is to deliver powerful, user-friendly, and intuitive products for single software engineers, and small teams - like we are at the moment - to boost our/their productivity to help deliver ideas faster at a higher quality with less manual effort, in a repeatable way.
 <!--
 
 **Here are some ideas to get you started:**
