@@ -4,7 +4,7 @@
 
 Our vision is to disrupt and reshape the development landscape, pioneering a future where developer experience sets new standards of excellence and innovation.
 
-## Values / Principles
+## 🧙 Values / Principles
 
 - We are **customer-focused**, meaning we strive to anticipate and innovate according to our customers' needs, rather than simply responding to their requests.
 - We are team players because we are aware that the **whole is greater than the sum of of the parts**.
@@ -13,9 +13,16 @@ Our vision is to disrupt and reshape the development landscape, pioneering a fut
 - We **are proud about our successes and mistakes**, as they indicate we’ve taken risks, learned, and grew from them.
 - We are **reliable and trustworthy partners**, because we hold ourselves accountable to our promises. Each promise carries weight, showing our commitment to deliver on our own words
 
-## Mission
+## 👩‍💻 Mission
 
 Our mission is to deliver powerful, user-friendly, and intuitive products for single software engineers, and small teams - like we are at the moment - to boost our/their productivity to help deliver ideas faster at a higher quality with less manual effort, in a repeatable way.
+
+## 🍿 Open source
+
+We are commited to bringing value through open-source and one of the core beliefs of our company is that good software should be shared. As a part of that mission we aim to deliver help through various free tools we offer for the community such as VS code extensions, vite plugins and Remix.run OSS packages.
+
+We welcome any contributions to our open-source work and any contribution, no matter how big or small, is a huge help!
+
 <!--
 
 **Here are some ideas to get you started:**
