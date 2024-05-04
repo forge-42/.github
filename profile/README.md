@@ -23,6 +23,10 @@ We are commited to bringing value through open-source and one of the core belief
 
 We welcome any contributions to our open-source work and any contribution, no matter how big or small, is a huge help!
 
+## Community
+
+We have a Discord Server dedicated to our Open-Source and our community, if you need help, want to suggest features, or just come and hang out with us and meet us feel free to join us at the following Discord link:
+https://discord.com/invite/mQUyC67uqn
 <!--
 
 **Here are some ideas to get you started:**
